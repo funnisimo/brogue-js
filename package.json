@@ -1,0 +1,23 @@
+{
+  "name": "brogue-js",
+  "version": "1.7.5",
+  "description": "A 100% Javascript version of Brogue",
+  "main": "dist/Brogue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funnisimo/brogue-js.git"
+  },
+  "keywords": [
+    "brogue",
+    "roguelike"
+  ],
+  "author": "Funnisimo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/funnisimo/brogue-js/issues"
+  },
+  "homepage": "https://github.com/funnisimo/brogue-js#readme"
+}
