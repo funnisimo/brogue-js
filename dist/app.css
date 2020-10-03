@@ -1,0 +1,16 @@
+
+html, body {
+  background-color: black;
+  color: #aaaaaa;
+  font-family: "DejaVuSansMono", "DejaVu Sans Mono", monospace;
+  font-size: 14px;
+}
+
+
+#game {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}

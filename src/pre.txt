@@ -1,0 +1,15 @@
+/////////////////////////
+// Brogue.js
+/////////////////////////
+(function (root, factory) {
+    if (typeof define === 'function' && define.amd) {
+        // AMD
+        define([/* dependencies (as strings) */], factory);
+    } else if (typeof exports === 'object') {
+        // Node, CommonJS-like
+        module.exports = factory(/* dependencies (from requires) */);
+    } else {
+        // Browser globals (root is window)
+        Object.assign(root, factory(/* root.jQuery, root._ */));
+    }
+}(this, function () {
