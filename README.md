@@ -10,6 +10,10 @@ The community edition of Brogue can be found here [BrogueCE](https://github.com/
 
 This version is ported from the old 1.7.5 version into Javascript.  It is all bult into a single JS file and can be included directly into the browser for playing.
 
+## Usage
+
+Look at the (index.html)[https://github.com/funnisimo/brogue-js/blob/main/dist/index.html] file.
+
 ## Known issues
 
 * The FOV algo needs tweaking (there is a rounding error)
