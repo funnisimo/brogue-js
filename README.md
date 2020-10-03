@@ -12,7 +12,7 @@ This version is ported from the old 1.7.5 version into Javascript.  It is all bu
 
 ## Usage
 
-Look at the (index.html)[https://github.com/funnisimo/brogue-js/blob/main/dist/index.html] file.
+Look at the [index.html](https://github.com/funnisimo/brogue-js/blob/main/dist/index.html) file.
 
 ## Known issues
 
